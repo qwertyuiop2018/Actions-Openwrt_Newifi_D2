@@ -9,4 +9,6 @@
 #============================================================
 
 # Modify default IP
-#sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+sed -i 's/192.168.1.1/192.168.99.1/g' package/base-files/files/bin/config_generate
+# 拉取微信推送插件
+svn co https://github.com/tty228/luci-app-serverchan package/lean/luci-app-serverchan
