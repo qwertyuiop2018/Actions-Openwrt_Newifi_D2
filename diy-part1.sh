@@ -13,5 +13,3 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-svn co https://github.com/pymumu/openwrt-smartdns.git /feeds/packages/net/smartdns/
-svn co https://github.com/pymumu/luci-app-smartdns.git feeds/luci/applications/luci-app-smartdns/
