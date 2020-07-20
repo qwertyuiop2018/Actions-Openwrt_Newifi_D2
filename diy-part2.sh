@@ -15,5 +15,5 @@ svn co https://github.com/tty228/luci-app-serverchan package/lean/luci-app-serve
 #svn co https://github.com/xkstudio/luci-app-pptp-server package/lean/luci-app-pptp-server
 #svn co https://github.com/jerrykuku/lua-maxminddb package/lean/lua-maxminddb
 #svn co https://github.com/jerrykuku/luci-app-vssr  package/lean/luci-app-vssr
-#svn co https://github.com/jerrykuku/node-request.git package/lean/node-request
-#svn co https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
+svn co https://github.com/jerrykuku/node-request.git package/lean/node-request
+svn co https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
