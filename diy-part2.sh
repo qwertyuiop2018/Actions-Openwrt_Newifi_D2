@@ -12,8 +12,8 @@
 sed -i 's/192.168.1.1/192.168.99.1/g' package/base-files/files/bin/config_generate
 # 拉取微信推送、PPTP服务器、HolleWorld、京东签到插件
 svn co https://github.com/tty228/luci-app-serverchan package/lean/luci-app-serverchan
-svn co https://github.com/xkstudio/luci-app-pptp-server package/lean/luci-app-pptp-server
+#svn co https://github.com/xkstudio/luci-app-pptp-server package/lean/luci-app-pptp-server
 #svn co https://github.com/jerrykuku/lua-maxminddb package/lean/lua-maxminddb
 #svn co https://github.com/jerrykuku/luci-app-vssr  package/lean/luci-app-vssr
-svn co https://github.com/jerrykuku/node-request.git package/lean/node-request
-svn co https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
+#svn co https://github.com/jerrykuku/node-request.git package/lean/node-request
+#svn co https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
