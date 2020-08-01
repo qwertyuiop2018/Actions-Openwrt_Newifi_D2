@@ -13,7 +13,7 @@
 ## 使用方法
 
 - 单击[使用此模板](https://github.com/cslxtx/Actions-Openwrt_Newifi_D2/generate)按钮创建一个新的存储库。
-- 点击右上角☆Star，编译会自动开始。进度可以在Actions页面上查看。
+- 点击右上角`☆Star`，编译会自动开始。进度可以在Actions页面上查看。
 - 编译完成后，点击Actions页面右上角的`Artifacts`按钮以下载固件压缩包文件。
 
 ### 提示
