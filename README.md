@@ -9,6 +9,7 @@
 - Newifi-D2固件，酸酸乳Plus+、Passwall、SmartDNS、PPTP服务端、京东签到服务、AdGuardHome、Uhttpd
 - 用户名：root 密码：password 管理IP：192.168.99.1
 - 已开启SSH，可自定义选择编译，自动生成`.config`
+- 如已有`.config`文件自动编译，请单击[使用此模板](https://github.com/cslxtx/Actions-openwrt-newifi_D2/generate)，上传`.config`开始编译，
 
 ## 使用方法
 
